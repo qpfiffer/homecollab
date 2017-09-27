@@ -11,3 +11,4 @@ This aims to be a simple information repository/wiki thing for home use.
 * Admin users
 * Simple, flat-file markdown
 * sqlite
+* learn git
